@@ -32,7 +32,7 @@ To install Pytorch it’s very simple:  open a terminal and type the following c
 
 **pip3 install torch torchvision torchaudio**
 
-If you’d like to customize your setup to include using a GPU, or if you have Mac or Linux OS, please follow the link for install instructions: Start Locally | PyTorch
+If you’d like to customize your setup to include using a GPU, or if you have Mac or Linux OS, please follow the link for install instructions: [Start Locally | PyTorch](https://pytorch.org/get-started/locally/)
 
 ## **Additional Resources:**
 
